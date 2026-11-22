@@ -1,0 +1,82 @@
+# Banned words list - Spanish (es.txt)
+# Syntax:
+#   word    -> exact match
+#   ^word   -> starts with "word"
+#   word$   -> ends with "word"
+#   *word*  -> contains "word"
+^cabron
+^cabrón
+^cagada
+^cagar
+^carajo
+^chinga
+^chingo
+^chupa
+^cojones
+^cojon
+^cojón
+^concha
+^cono
+^coño
+^culero
+^estaf
+^estupid
+^estúpid
+^folla
+^gilipolla
+^gonorrea
+^huevon
+^huevón
+^idiota
+^imbecil
+^imbécil
+^joder
+^jodid
+^malparid
+^mamon
+^mamón
+^maric
+^mierda
+^ojete
+^pajillero
+^pendej
+^perra
+^pinche
+^polla
+^puta
+^puto
+^putis
+^putís
+^tarado
+^tarada
+^tonto
+^tonta
+^verga
+^zorra
+ano
+anos
+culo
+culos
+puta
+puto
+putas
+putos
+alv
+ctm
+hdp
+hdlv
+hp
+lpm
+lptm
+ptm
+vrg
+*chupa polla*
+*chupapollas*
+*concha de tu madre*
+*hijo de puta*
+*hija de puta*
+*hijos de puta*
+*la concha de*
+*me cago en*
+*vete a la mierda*
+*vete a la verga*

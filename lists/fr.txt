@@ -4,14 +4,79 @@
 #   ^word   -> starts with "word"
 #   word$   -> ends with "word"
 #   *word*  -> contains "word"
-
-^pute
-^connard
-^conasse
-^salope
-^encul
-^merde
+^abruti
 ^batard
-^fdp
+^bâtard
+^bite
+^bouffon
+^branleur
+^branleuse
+^casse-couille
+^casse couille
+^chatte
+^chier
+^chieur
+^chieuse
+^connard
+^connasse
+^conasse
+^conne
+^couille
+^cretin
+^crétin
+^debile
+^débile
+^ducon
+^emmerdeur
+^emmerdeuse
+^encul
+^enfoir
+^foutre
+^garce
+^gouine
+^grognasse
+^gueule
+^idiot
+^imbecile
+^imbécile
+^merd
+^niqu
+^ordure
+^pede
+^pédé
+^pedale
+^pédale
+^petasse
+^pétasse
+^pouffiasse
+^poufiasse
+^pute
+^putain
+^salop
+^salaud
+^suce
+^sucer
+^tare
+^taré
+^tapette
+^trouduc
+con
+cons
+cul
+culs
+bat
+fdp
+ftg
 ntm
-arnaque
+pd
+ptn
+tg
+vtf
+vtff
+*fils de pute*
+*ferme ta gueule*
+*nique ta mere*
+*nique ta mère*
+*trou du cul*
+*va te faire*
+^arnaque
