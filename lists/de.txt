@@ -4,79 +4,47 @@
 #   ^word   -> starts with "word"
 #   word$   -> ends with "word"
 #   *word*  -> contains "word"
-^arsch
-^bastard
-^betrug
-^betrüg
-^blödmann
-^blodmann
-^bums
-^depp
-^dreck
-^dummkopf
-^fick
-^fotz
-^fress
-^hackfress
 ^hure
-^idiot
-^kack
-^kanak
-^kotz
-^krüppel
-^kruppel
-^luder
-^missgeburt
-^miststück
-^miststuck
-^muschi
-^nutte
-^opfer
-^penner
-^pimmel
-^piss
-^schlamp
-^schwanz
-^schwein
-^schwuchtel
+^arschloch
+^arschl0ch
+^arschloecher
+^arschlöcher
+^a*schloch
+^schlampe
+^fick
 ^spast
-^trottel
-^verpiss
+^behinderter
+^wichser
+^w1chser
+^wichs3r
+^w*chser
+^wixxer
+^w1xxer
+^hurensohn
+^hurensoehne
+^huren5ohn
+^huso
+^miststück
+^fotze
+^verpiss dich
+^halt die fresse
+^fick dich
+^nute
+^schwuchtel
+^transe
+^kanake
+^bring dich um
+^verrecke
+^stirb
+^abstechen
+^erschießen
+^fotze
+^missgeburt
 ^vollidiot
-^wichs
-^wixer
-ass
-assi
-assis
-asozial
-asoziale
-asozialer
-hurensohn
-hurensöhne
-hurensohne
-mist
-nutten
-sau
-säue
-schwul
-schwule
-schwuler
-df
-fck
-fdf
-hdf
-hs
-lmfa
-lmfaa
-mdr
-opfa
-stfu
-vdf
-*altes arschloch*
-*fick dich*
-*fickt euch*
-*halt die fresse*
-*halts maul*
-*halt's maul*
-*leck mich*
-*verpiss dich*
+^idiot
+^drecksau
+^bastard
+^neger
+^nigga
+^fick dich
+^kys
