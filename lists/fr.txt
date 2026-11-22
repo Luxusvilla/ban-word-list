@@ -1,0 +1,17 @@
+# Banned words list - French (fr.txt)
+# Syntax:
+#   word    -> exact match
+#   ^word   -> starts with "word"
+#   word$   -> ends with "word"
+#   *word*  -> contains "word"
+
+^pute
+^connard
+^conasse
+^salope
+^encul
+^merde
+^batard
+^fdp
+ntm
+arnaque

@@ -1,0 +1,14 @@
+# Banned words list - English (en.txt)
+# Syntax:
+#   word    -> exact match
+#   ^word   -> starts with "word"
+#   word$   -> ends with "word"
+#   *word*  -> contains "word"
+
+^fuck
+^shit
+^bitch
+^asshole
+^bastard
+^cunt
+scam
